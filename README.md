@@ -1,6 +1,9 @@
 #  Luminash
 
-Luminash is a modern React Native mobile application built to deliver a seamless, fast, and intuitive user experience. It’s designed, developed, and deployed using **React Native**, **Gradle**, and **Android SDK** with full support for release builds and Play Store deployment.
+Luminash is a modern React Native mobile application built to deliver a seamless, fast, and intuitive user experience. It’s designed, developed, and deployed using **React Native**, **Gradle**, and **Android SDK** with full support for release builds.  
+
+
+Luminash is AI application like Google gemini
 
 ---
 
